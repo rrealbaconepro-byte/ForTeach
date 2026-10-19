@@ -1,0 +1,12 @@
+{
+  "name": "default-500-page",
+  "version": "1.0.0",
+  "description": "Standard 500 Internal Server Error page",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve -s ."
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
